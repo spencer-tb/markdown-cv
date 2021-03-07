@@ -1,91 +1,89 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: spencerTaylorBrown
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Spencer Taylor-Brown
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:spencer@spencertaylorbrown.uk">spencer@spencertaylorbrown.uk</a>
+</div>
+<div id="webaddress">
+<a>+44 (0) 7............</a>
 </div>
 
+## Present 
 
-## Currently
+`From 08/2020`
+__Nordic Semiconductor, Trondheim__
+- __Intern R&D Engineer__
+- Top level integration & verification 
+- Digital IC design & verification
+- DevOps on in-house tools
+- System analysis, SpyGlass: CDC/RDC/Lint
+- Debugging in Questasim, Visualizer
+- *SystemVerilog, C/C++, Python*
+- *Jenkins, Git, Jira, Conflence, Bitbucket, Teams, Scrum*
 
-Standing on the shoulders of giants
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Research interests
+Deep Learning, Digital Signal Processing
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`From 2016`
+__The University of Edinburgh__
+- __MEng Electronics & Computer Science__ (exp 2:1)
+- Digital System Design
+- Machine Learning
+- Operating Systems
+- Extreme Computing
+- Bioelectronics
+- Computer Security
+- *Verilog, C/C++, Python, Java, Haskell*
+- *Treasurer of Edinburgh Univesity Skydiving Club*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Past
+`02/2020 - 08/2020`
+__CreativEnergie, Edinburgh__
+- __Sustainable Energy Hardware Intern__
+- Fast proto-typing for sustainable solar home systems
+- High level circuit design
+- Firmware programming: Arduino, ESP-32/8266, PlatformIO
+- NativeScript app development
+- *C/C++, Python, Angular, Nanopb (ProtoBuf), Git, Slack*
 
-- Sizar
+`11/2019 - 03/2020`
+__Live Code, Edinburgh__
+- __Test Engineer__
+- Test automation on 'LiveCode' stack
+- Testcase developement
+- Manual testing & bug reporting
+- Preparign builds on multiple platforms
+- *iOS, OSX, Android, 'LiveCode', Git, Slack, Agile*
 
-`1667 - death`
-__Trinity College, Cambridge__
+`06/2019 - 09/2019`
+__Smarter Grid Solutions, Glasgow__
+- __Project Management & Developement Intern__
+- Risk analysis for customer requirements
+- Documentation of in-house tools
+- Tool development for ICCP (Inter-control Center Communications Protocol)
+- *C#, Groovy, SCADA, Confluence, Agile*
 
-- Fellow
-
-
+`09/2017 - 01/2019`
+__Brewhemia, Edinburgh__
+- __Bar & Operations Supervisor__
+- Supervisor of 7 different bars
+- Provide communication channels between staff and management
+- Improve stock taking techniques
+- Solve customer conflicts & complaints
 
 ## Awards
+`2019`
+__Teamwork & Entrepreneur Awards, System Design Project__
+- Awarded by course "investors", from companies such as Amazon, Sky and Github. 
+- University group project themed around the creation of a startup.
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2015`
+__IET Diamond Jubilee Scholarship__
+- Awarded by The Institute of Engineering & Technology.
+- Supported by British Telecommunications plc whilst studying.

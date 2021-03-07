@@ -1,65 +1,91 @@
-# markdown-cv
+---
+layout: cv
+title: Isaac Newtons's CV
+---
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-***
+## Currently
 
-## Customization
+Standing on the shoulders of giants
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+### Specialized in
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Research interests
 
-adding your skills, jobs and education.
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-## Distribution
+## Education
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+`1654-1660`
+__The King's School, Grantham.__
 
-### I. Use Github Pages to publish it online
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+- Sizar
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+`1667 - death`
+__Trinity College, Cambridge__
 
-### II. Build it locally and print a PDF
+- Fellow
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
-## Styling
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+## Awards
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+`2012`
+President, *Royal Society*, London, UK
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+Associate, *French Academy of Science*, Paris, France
 
-### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+## Publications
 
-### License
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
